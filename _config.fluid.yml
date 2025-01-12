@@ -97,7 +97,16 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
-
+index:
+  slogan:
+    enable: true
+    text: 两口一心的世界
+    api:
+      enable: false
+      url: "https://v1.hitokoto.cn/"
+      method: "GET"
+      headers: {}
+      keys: ["hitokoto"]
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
