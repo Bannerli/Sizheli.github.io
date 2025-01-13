@@ -6,6 +6,7 @@ tags:
 categories: 
   - 工作
 banner_img: /img/Slovinia.jpg
+index_img: /img/himalaya.jpg
 ---
 
 
