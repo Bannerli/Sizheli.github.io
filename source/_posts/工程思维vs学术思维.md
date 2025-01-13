@@ -1,7 +1,11 @@
 ---
 title: 工程思维vs学术思维
 date: 2025-01-12 11:35:25
-tags: 工作
+tags: 
+  - 方法论
+categories: 
+  - 工作
+banner_img: /img/Slovinia.jpg
 ---
 
 
