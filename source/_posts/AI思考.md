@@ -7,6 +7,7 @@ categories:
   - 风险控制
 index_img: /img/huangshan.jpg
 banner_img: /img/German.jpg
+og_img: /img/German.jpg
 ---
 
 ### AI在金融领域
