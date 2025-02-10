@@ -9,7 +9,7 @@ index_img: /img/huangshan.jpg
 banner_img: /img/German.jpg
 og_img: /img/German.jpg
 ---
-
+![数据驱动组织](/img/data-driven.png)
 ### AI在金融领域
 要避免AI算法导致的决策陷阱，至少在目前阶段，甚至可以预见的很长一段时间，AI算法只能作为一种辅助决策工具，而不是彻底地代替人类做出决策，并且越复杂的投资决策越是如此。
 
