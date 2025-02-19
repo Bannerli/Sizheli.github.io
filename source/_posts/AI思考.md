@@ -1,5 +1,5 @@
 ---
-title: AI思考
+title: 金融与编程、AI
 date: 2025-02-06 10:32:02
 tags: 
   - AI
