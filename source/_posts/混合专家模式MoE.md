@@ -1,7 +1,10 @@
 ---
 title: 混合专家模式MoE
 date: 2025-02-11 15:52:06
-tags:
+tags: 
+  - AI
+index_img: /img/lanshan.jpeg
+banner_img: /img/kyoto.jpeg
 ---
 
 ## 引入
